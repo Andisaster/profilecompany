@@ -1,2 +1,11 @@
-# profilecompany
-A repository for storing files, documentation, and code related to the company's profile. Contains information about projects, solutions, and innovations developed by Andila Adelmi Putra.
+Create Database
+
+Open your database management tool.
+
+Create a new database with the package name.
+
+Import Database
+
+Find the package.sql file in the /database folder.
+
+Import the file into the database package using your database management tool.
