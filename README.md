@@ -2,15 +2,18 @@ Create Database
 
 Open your database management tool.
 
-Create a new database with the package name.
+Create a new database with the name: paket
 
 Import Database
 
-Find the package.sql file in the /database folder.
+Find the paket.sql file in the /database folder.
 
-Import the file into the database package using your database management tool.
+Import the files into the database package using your database management tool.
 
-for login account
+run the server 
+and open it in a browser by typing: http://localhost/web/index.php
 
-username : admin
-password : 123
+to log in account
+
+username : admin123
+password : admin123
